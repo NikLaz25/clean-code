@@ -13,4 +13,4 @@ x3 - year_of_birth # год рождения
 x4 - city_of_resident # город проживания
 x5 - e_mail # e-mail
 x6 - phone_number # номер телефона
-my_sum - general_client_information # общие данные о клиенте
+my_sum - client_information # общие данные о клиенте
